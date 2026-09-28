@@ -39,7 +39,7 @@ The paper specifies the survival function `S(T | T50, k) = 2^[-(T/T50)^k]`, shar
 
 ### Sources
 
-- [WRRA Series IV v4.2, Zenodo DOI supplied by the author](https://doi.org/10.5281/zenodo.22239708) — Wonsik Choi, **WRRA 펄서 튜닝·전향예측 동결모형 v4.2**; source filename `WRRA_물리연작_IV_펄서튜닝_WRRA전향예측_동결모형_최원식_v4.2.docx`. The model values above are transcribed from that document. Note: the DOI landing page could not be independently retrieved during this update, so its deposit metadata and exact version association still require verification.
+- [Wonsik Choi, *WRRA Stochastic Reservoir-Time Model Tuned to Pulsar Observing Intervals with Frozen Prospective Predictions*](https://doi.org/10.5281/zenodo.22239708), published 2026-09-02. Zenodo labels the deposit “Version 4.0”; its attached PDF is named `WRRA_Physics_Series_IV_Pulsar_Tuning_and_Frozen_Prospective_Prediction_Model_Wonsik_Choi_v4.2_EN.pdf`. The source Korean manuscript is `WRRA_물리연작_IV_펄서튜닝_WRRA전향예측_동결모형_최원식_v4.2.docx`. The discrepancy between the Zenodo version field and PDF filename should be resolved in the deposit metadata by its owner; it is disclosed here. The frozen forecast values above are from the v4.2 manuscript.
 - [Wang et al., intermittent-pulsar timing (2020)](https://arxiv.org/abs/2005.05558).
 - [CSIRO PULSE@Parkes, J1832+0029 archive](https://pulseatparkes.atnf.csiro.au/pulsarShow.php?psr=J1832%2B0029); search the exact filenames listed above. Example [2024-08-12 file entry](https://pulseatparkes.atnf.csiro.au/pulsarSchoolShow.php?id=260&psr=J1832%2B0029).
 - [Bause et al., MeerKAT paper](https://arxiv.org/html/2509.14043v1), sections 2.2 and 4.2. This paper targets magnetars; J1841−0500 appears serendipitously.
