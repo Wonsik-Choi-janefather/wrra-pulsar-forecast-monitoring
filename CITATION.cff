@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use the frozen pulsar model or its monitoring protocol, please cite the Zenodo record."
+title: "WRRA Stochastic Reservoir-Time Model Tuned to Pulsar Observing Intervals with Frozen Prospective Predictions"
+type: generic
+doi: 10.5281/zenodo.22239708
+version: 4.0
+date-released: 2026-09-02
+authors:
+  - family-names: Choi
+    given-names: Wonsik
+    orcid: "https://orcid.org/0009-0001-4263-9772"
+repository-code: "https://github.com/Wonsik-Choi-janefather/wrra-pulsar-forecast-monitoring"
+url: "https://doi.org/10.5281/zenodo.22239708"
+abstract: >-
+  Frozen WRRA prospective forecasts and an auditable monitoring protocol for
+  intermittent-pulsar ON/OFF state intervals, censoring, and holdout scoring.
+keywords:
+  - WRRA
+  - pulsars
+  - prospective prediction
+  - survival analysis
+  - monitoring
