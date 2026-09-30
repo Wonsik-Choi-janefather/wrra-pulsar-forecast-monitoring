@@ -61,3 +61,18 @@ A preliminary interpretation proposed that J1832+0029 switched OFF between 2024-
 ## Contributing a new observation
 
 Provide pulsar ID, facility and band, observation start/end in UTC and MJD, raw file or DOI, exposure and sensitivity, pulse/timing evidence, previous and next classified epochs, treatment of RFI, inferred transition-date ranges, whether the interval began after the freeze, and the resulting scoring classification. Link primary data or a dated paper. Preserve revisions in the Git history; never overwrite the frozen table.
+
+---
+
+## Central corpus index
+
+This work is part of the open research and publishing corpus of **Wonsik Choi (최원식)**.
+
+- [Central Research & Publications Index](https://github.com/Wonsik-Choi-janefather/minimal-computing-cosmology-research-history/blob/main/PUBLICATIONS.md)
+- [Public GitBook index](https://independent-research.gitbook.io/mcc-and-wrra-research-history/publications)
+- [Machine-readable corpus index](https://github.com/Wonsik-Choi-janefather/minimal-computing-cosmology-research-history/blob/main/works.json)
+- Identity: [janefather@gmail.com](mailto:janefather@gmail.com)
+
+Rights remain those stated in this repository and its linked archival record.
+
+**Copyright (C) 2026 Wonsik Choi**
